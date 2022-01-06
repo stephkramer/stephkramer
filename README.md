@@ -11,4 +11,4 @@ You will currently find everything related to my
 * :memo: publications under [ORCID](https://orcid.org/0000-0002-9269-4446). 
 <br>
 
-To foster reproducibility and transparency in science, you will find code related to our publications and tools/ packages to make work life easier on our :computer: [Github pages](https://github.com/EcoDynIZW/EcoDynIZW). You might also want to follow our research news via [twitter](https://twitter.com/EcoDynIZW). Have fun!
+To foster reproducibility and transparency in science, you will find code related to our publications and tools/ packages to make work life easier on our :computer: [D6 Github pages](https://github.com/EcoDynIZW/EcoDynIZW). You might also want to follow our research news via [twitter](https://twitter.com/EcoDynIZW). Have fun!
