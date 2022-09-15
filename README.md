@@ -7,7 +7,7 @@ My research is focussed around
 
 You will currently find everything related to my
 * [research](https://ecodynizw.github.io/team-population.html) and
-* [teaching 'n theses](https://ecodynizw.github.io/msc-bsc-theses.html) for (TU Berlin) students at our extended [department website](https://ecodynizw.github.io/). Find the complete list of my 
+* [teaching 'n theses](https://ecodynizw.github.io/msc-bsc-theses.html) for (TUB) students at our extended [department website](https://ecodynizw.github.io/). Find the complete list of my 
 * :memo: publications under [ORCID](https://orcid.org/0000-0002-9269-4446). 
 <br>
 
