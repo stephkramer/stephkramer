@@ -6,8 +6,8 @@ My research is focussed around
 * movement ecology, disease dynamics, urban ecology and conservation biology. My areas of expertise are ecological modelling, spatial statistics, individual-based modelling and animal telemetry.  
 
 You will currently find everything related to my
-* [research](https://ecological-dynamics-izw.com/team-2-population-dynamics/) and
-* [teaching 'n theses](https://ecological-dynamics-izw.com/theses/) for TUB at our extended [department website](https://ecological-dynamics-izw.com/). Find the complete list of my 
+* [research](https://ecodynizw.github.io/team-population.html) and
+* [teaching 'n theses](https://ecodynizw.github.io/msc-bsc-theses.html) for (TU Berlin) students at our extended [department website](https://ecodynizw.github.io/). Find the complete list of my 
 * :memo: publications under [ORCID](https://orcid.org/0000-0002-9269-4446). 
 <br>
 
