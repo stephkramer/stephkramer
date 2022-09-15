@@ -1,5 +1,5 @@
 ### Hello, 
-I am a researcher/ professor at Technische Universität Berlin (TUB) and the [Leibniz Institute for Zoo and Wildlife Research (IZW)](https://www.leibniz-izw.de/de/start.html). I am passionate about wildlife, nature, photography and travelling :eagle: :mountain_snow: :camera: :world_map:, [D6](https://www.leibniz-izw.de/en/department-of-ecological-dynamics.html) (the Department of Ecological Dynamics I lead at IZW) and applied wildlife ecology! 
+I am a researcher/ professor at [Technische Universität Berlin (TUB)](https://www.tu.berlin/en/animecol) and the [Leibniz Institute for Zoo and Wildlife Research (IZW)](https://www.leibniz-izw.de/de/start.html). I am passionate about wildlife, nature, photography and travelling :eagle: :mountain_snow: :camera: :world_map:, [D6](https://www.leibniz-izw.de/en/department-of-ecological-dynamics.html) (the Department of Ecological Dynamics I lead at IZW) and applied wildlife ecology! 
 <br><br>
 My research is focussed around 
 * :chart_with_upwards_trend: population dynamics :globe_with_meridians: and distributions of :wolf: mammals and :bird: birds and thematically deals with 
